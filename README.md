@@ -1,1 +1,1 @@
-# rss-puzzle-data
+# words-data
