@@ -7754,7 +7754,7 @@
     },
     {
       "levelData": {
-        "id": "2_51",
+        "id": "2_52",
         "name": "Landscape with Shepherds",
         "imageSrc": "level2/2_20.jpg",
         "cutSrc": "level2/cut/2_20.jpg",
@@ -7906,7 +7906,7 @@
     },
     {
       "levelData": {
-        "id": "2_52",
+        "id": "2_53",
         "name": "The Hay-Wain",
         "imageSrc": "level2/2_21.jpg",
         "cutSrc": "level2/cut/2_21.jpg",
@@ -8058,7 +8058,7 @@
     },
     {
       "levelData": {
-        "id": "2_53",
+        "id": "2_54",
         "name": "The Bridge at Mantes",
         "imageSrc": "level2/2_22.jpg",
         "cutSrc": "level2/cut/2_22.jpg",
@@ -8210,7 +8210,7 @@
     },
     {
       "levelData": {
-        "id": "2_54",
+        "id": "2_55",
         "name": "View of Frankfurt am Main",
         "imageSrc": "level2/2_23.jpg",
         "cutSrc": "level2/cut/2_23.jpg",
@@ -8362,7 +8362,7 @@
     },
     {
       "levelData": {
-        "id": "2_55",
+        "id": "2_56",
         "name": "The Cliff at Étretat after the Storm",
         "imageSrc": "level2/2_24.jpg",
         "cutSrc": "level2/cut/2_24.jpg",
@@ -8514,7 +8514,7 @@
     },
     {
       "levelData": {
-        "id": "2_56",
+        "id": "2_57",
         "name": "Greenwood Lake",
         "imageSrc": "level2/2_25.jpg",
         "cutSrc": "level2/cut/2_25.jpg",
@@ -8666,7 +8666,7 @@
     },
     {
       "levelData": {
-        "id": "2_57",
+        "id": "2_58",
         "name": "The Avenue at Meerdervoort",
         "imageSrc": "level2/2_26.jpg",
         "cutSrc": "level2/cut/2_26.jpg",
@@ -8818,7 +8818,7 @@
     },
     {
       "levelData": {
-        "id": "2_58",
+        "id": "2_59",
         "name": "The Valkhof at Nijmegen",
         "imageSrc": "level2/2_27.jpg",
         "cutSrc": "level2/cut/2_27.jpg",
@@ -8970,7 +8970,7 @@
     },
     {
       "levelData": {
-        "id": "2_59",
+        "id": "2_60",
         "name": "Morning after a Stormy Night",
         "imageSrc": "level2/2_28.jpg",
         "cutSrc": "level2/cut/2_28.jpg",
@@ -9121,5 +9121,5 @@
       ]
     }
   ],
-  "roundsCount": 60
+  "roundsCount": 59
 }
